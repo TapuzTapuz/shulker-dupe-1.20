@@ -1,6 +1,8 @@
 # Shulker Dupe
 A client-side mod that makes it easier to perform the shulker dupe.
 
+### WARNING: This fork is created merely to make performing Shulker Dupes on 1.20 clients easier, it **DOES NOT** bypass the fix in 1.19.1, therefore it can only perform the "dupe" function on a server of an older version (via ViaVersion, for example). When in singleplayer or servers of versions higher than 1.19.1 (from which the dupe exploit has been patched), it will only break the shulker box while the GUI is open, without performing the "dupe" function as intended (which makes it meaningless, even though it doesn't break anything).
+
 ---
 # Mod Info:
 
@@ -9,10 +11,6 @@ A client-side mod that makes it easier to perform the shulker dupe.
 Mod Loader: FabricMC
 
 Server/Client Side: Client-Side, Should not be installed locally on a server.
-
-Versions (Separately In Releases): 1.17 - 1.19
-
-Current Version: 1.19
 
 ---
 # Notes:
